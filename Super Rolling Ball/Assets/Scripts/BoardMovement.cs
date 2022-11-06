@@ -4,10 +4,7 @@ using UnityEngine;
 
 public class BoardMovement : MonoBehaviour
 {
-
-    
-    public float speed;
-    
+    public float speed;    
 
     void FixedUpdate()
     {
