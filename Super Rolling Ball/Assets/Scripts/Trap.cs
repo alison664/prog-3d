@@ -10,7 +10,7 @@ public class Trap : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            sphere.transform.position = new Vector3(1f, 0.113f, 2.073f);
+            sphere.transform.position = new Vector3(0.118f, 0.131f, 2.038f);            
         }
     }
 }
